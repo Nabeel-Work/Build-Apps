@@ -1,2 +1,0 @@
-my task Build Apps :
-explore to find an any repository if we could store the data files like MTAR , XAML file etcc.. and passing them directly through links.
